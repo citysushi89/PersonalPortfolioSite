@@ -1,23 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Graphics from './components/Graphics';
+import AboutMe from "./components/AboutMe";
+import Design from "./components/Design";
+import Card from "./components/SmallerProjects";
+import smallerProjectsList from "./SmallProjectsList";
+
+function createCard(item) {
+  return (
+  <Card 
+  key={item.id}
+  title={item.title}
+  img={item.imgURL}
+  description={item.description}
+  tagOne={item.tagOne}
+  tagTwo={item.tagTwo}
+  tagThree={item.tagThree}
+  />
+  );
+}
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <dl className="cardList"> {smallerProjectsList.map(createCard)}</dl>
+      <Design />
+      <Graphics />
+      <AboutMe />
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,5 @@
+1) Hamburger not working - may have to use states
+2) Link CSS
+
+**) Put in smaller projects and larger projects pages, then learn multipage react app and move them off the home page 
+- Not going next to each other on larger pages, like bootstrap columns -> use web dev Udemy Mapping Data to components for help

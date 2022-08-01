@@ -1,0 +1,58 @@
+/* Sections */
+.color {
+  background-color: red;
+  padding: 35px 15px;
+}
+
+.nocolor {
+  padding: 35px 15px;
+}
+
+.card {
+  max-width: 500px;
+  /* justify-content: center; */
+  /* max-width: 500px; */
+  /* max-height: 15%; */
+}
+
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2rem auto;
+  max-width: 95%;
+}
+
+.card-text {
+  text-align: center;
+  margin-left: 20%;
+  max-width: 60%;
+}
+
+.small-projects-imgs {
+  height: 300px;
+  max-width: 101%;
+  /* max-width: 50%;
+  max-height: 50%; */
+}
+
+/* Footer */
+.page-footer {
+  margin-bottom: -3%;
+  padding-top: 15px;
+  padding-bottom: 1px;
+}
+
+/* .footer-copyright {
+  margin-bottom: 15px;
+} */
+
+.footer-text {
+  padding-bottom: 250px;
+}
+
+/* .test {
+  display: block;
+} */
+
+/* DELETE */
