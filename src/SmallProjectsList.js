@@ -9,6 +9,7 @@ const smallerProjectsList = [
         tagOne: "Tag concepts / libraries / languages used",
         tagTwo: "ie Python",
         tagThree: "ie pyperclip",
+        gitURL: "https://github.com/citysushi89/small_projects/blob/main/encoderDecoder.py",
 
     },
     {
@@ -19,6 +20,7 @@ const smallerProjectsList = [
         tagOne: "Tag concepts / libraries / languages used",
         tagTwo: "ie Python",
         tagThree: "ie pyperclip",
+        gitURL: "https://github.com/citysushi89/small_projects/blob/main/blackjack.py",
 
     },
     {
@@ -29,6 +31,7 @@ const smallerProjectsList = [
         tagOne: "Tag concepts / libraries / languages used",
         tagTwo: "ie Python",
         tagThree: "ie pyperclip",
+        gitURL: "",
 
     },
 

@@ -1,6 +1,5 @@
 /* Sections */
 .color {
-  background-color: red;
   padding: 35px 15px;
 }
 
@@ -31,7 +30,7 @@
 
 .small-projects-imgs {
   height: 300px;
-  max-width: 101%;
+  max-width: 103%;
   /* max-width: 50%;
   max-height: 50%; */
 }
@@ -43,16 +42,20 @@
   padding-bottom: 1px;
 }
 
-/* .footer-copyright {
-  margin-bottom: 15px;
-} */
-
 .footer-text {
   padding-bottom: 250px;
+  text-align: center;
 }
 
-/* .test {
-  display: block;
-} */
 
-/* DELETE */
+/* Home Page */
+/* Graphics.jsx */
+.features-mini-section {
+  text-align: center;
+}
+
+
+/* General */
+body {
+  text-align: center;
+}

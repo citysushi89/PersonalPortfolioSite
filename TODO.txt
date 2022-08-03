@@ -1,5 +1,5 @@
-1) Hamburger not working - may have to use states
-2) Link CSS
+1) Finish functionality of contact me form
+2) Style contact me form
 
-**) Put in smaller projects and larger projects pages, then learn multipage react app and move them off the home page 
-- Not going next to each other on larger pages, like bootstrap columns -> use web dev Udemy Mapping Data to components for help
+1) Hamburger not working - may have to use states
+2) replace gitURL with link on third item in smallprojectlist.js

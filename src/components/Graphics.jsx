@@ -7,7 +7,7 @@ import DomainVerificationOutlinedIcon from '@mui/icons-material/DomainVerificati
 function Graphics() {
 
     return (
-    <div className="color">
+    <div className="color bg-light">
     <section id="Graphics">
     <div class="container-fluid">
       <div class="row">
