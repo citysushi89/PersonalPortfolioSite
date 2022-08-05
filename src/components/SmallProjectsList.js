@@ -1,4 +1,3 @@
-// import decoder.jpg from "my-app\public\images\decoder.jpg";
 
 const smallerProjectsList = [
     {

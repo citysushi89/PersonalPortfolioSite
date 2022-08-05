@@ -1,3 +1,13 @@
+/* General */
+body {
+  text-align: center;
+}
+
+.page-title {
+  padding-bottom: 3%;
+}
+
+
 /* Sections */
 .color {
   padding: 35px 15px;
@@ -38,6 +48,7 @@
 /* Footer */
 .page-footer {
   margin-bottom: -3%;
+  margin-top: 5%;
   padding-top: 15px;
   padding-bottom: 1px;
 }
@@ -49,13 +60,37 @@
 
 
 /* Home Page */
+
 /* Graphics.jsx */
 .features-mini-section {
   text-align: center;
 }
 
 
-/* General */
-body {
-  text-align: center;
+/* Contact Page */
+.contact-form-item {
+  padding: 10px;
+}
+
+.contact-form-message {
+  padding: 10px;
+}
+
+.contact-form-button {
+  padding: 10px;
+}
+
+.contact-form-button:hover {
+  background-color: green;
+}
+
+
+/* Larger Projects Page */
+.larger-projects-section {
+  padding: 5% 8%;
+}
+
+.larger-projects-headercard {
+
+  margin-bottom: 4%;
 }

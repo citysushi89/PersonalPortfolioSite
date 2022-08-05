@@ -1,5 +1,14 @@
+Functional TODOs
 1) Finish functionality of contact me form
 2) Style contact me form
 
 1) Hamburger not working - may have to use states
 2) replace gitURL with link on third item in smallprojectlist.js
+
+Other TODOs
+
+Smaller Projects
+1) Add instagram liker bot to smaller projects? 
+  - need to add .env for stuff
+2) Add button to see github code? example: https://react-bootstrap.github.io/components/cards/
+
