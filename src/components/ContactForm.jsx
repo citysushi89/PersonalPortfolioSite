@@ -1,7 +1,8 @@
-import React, { useRef } from "react";
+import React from "react";
 import emailjs from '@emailjs/browser'; 
 import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import Swal from 'sweetalert2';
+// import * as emailjs from "emailjs-com";
 
 function Contact() {
   const handleOnSubmit = (e) => {
@@ -23,43 +24,64 @@ function Contact() {
       });
     e.target.reset()
   };
+
 return (
-    <div className=''>
-      <Form onSubmit={handleOnSubmit}>
-        
-      <Form.Field
-          id='form-input-control-last-name'
-          control={Input}
-          name='user_name'
-          placeholder='Name…'
-          required
-          icon='user circle'
-          iconPosition='left'
-          className="contact-form-item"
-        />
 
-        <Form.Field
-          id='form-input-control-email'
-          control={Input}
-          name='user_email'
-          placeholder='Email…'
-          required
-          icon='mail'
-          iconPosition='left'
-          className="contact-form-item"
-        />
+    <div>
+          <div className="row">
+            <div className="col-lg-6 col-md-6 contact-form">
+                <h2>Give me a Shout!</h2>
+                <p>Send me an email with the form below.</p>
+                <form onSubmit={handleOnSubmit}>
+                    <div className="row">
+                        <div className="col-lg-6 col-md-6 col-sm-12 form-group">
+                            <input
+                                type="text"
+                                className="form-control"
+                                name="name"
+                                required
+                                placeholder="Name"
+                            />
+                        </div>
+                        <div className="col-lg-6 col-md-6 col-sm-12 form-group">
+                            <input
+                                type="email"
+                                className="form-control"
+                                name="email"
+                                required
+                                placeholder="Email"
+                            />
+                        </div>
+                    </div>
+                    <div className="row">
+                        <div className="col-lg-12 col-md-12 col-sm-12">
+                            <textarea
+                                className="form-control"
+                                type="text"
+                                name="message"
+                                maxLength="6000"
+                                rows="7"
+                                required
+                                placeholder="Message"
+                            ></textarea>
+                        </div>
+                    </div>
+                    <div className="row contact-button-row">
+                        <div className="col-md-12 form-group button-column">
+                            <button type="submit" className="button-color contact-form-button">
+                                Send
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
 
-        <Form.Field
-          id='form-textarea-control-opinion'
-          control={TextArea}
-          name='user_message'
-          placeholder='Message…'
-          required
-          className="contact-form-message"
-        />
-        <Button type='submit' className="contact-form-button">Submit</Button>
-      </Form>
+
+
+
     </div>
+
   );
 };
 

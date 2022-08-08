@@ -20,11 +20,12 @@ function LargerProjectsCard(props) {
     <div className="larger-projects-section">
         <h1 className="page-title">Larger Projects Page reeee</h1>
 
+      {/* <section className=""> */}
         <MDBCard className='mw-100 p-3 larger-projects-headercard'>
         <MDBCardBody>
           <MDBCardTitle>{props.bigtitle}</MDBCardTitle>
           <MDBCardText>{props.titledescription}</MDBCardText>
-          <MDBBtn href={props.gitbaseURL}>See Project in Action</MDBBtn>
+          <MDBBtn className="button-color" href={props.gitbaseURL}>See Project in Action</MDBBtn>
         </MDBCardBody>
       </MDBCard>
 

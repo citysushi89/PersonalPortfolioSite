@@ -1,21 +1,74 @@
 /* General */
 body {
   text-align: center;
+  background-color: #E7F6F2;
+  color: #7E7E7E
 }
 
 .page-title {
   padding-bottom: 3%;
+  padding-top: 3%;
+}
+
+.button-color {
+  background-color: #2C3333;
+  color: #ffffff;
+}
+
+.button-color:hover {
+  background-color: #395B64;
+}
+
+/* Section Colors */
+.dark-section {
+  background-color: #395B64;
+}
+
+.light-section {
+  background-color: #A5C9CA
 }
 
 
-/* Sections */
-.color {
-  padding: 35px 15px;
+/* # */
+
+.gray-section {
+  background-color: #E7F6F2;
 }
 
-.nocolor {
-  padding: 35px 15px;
+
+/* Home Page */
+/* Sections on Home Page */
+.home-page-section {
+  padding: 4% 10%;
+  text-align: center;
 }
+
+/* Graphics.jsx */
+.feature-item {
+  margin: 25px 50px;
+}
+
+.features-mini-section {
+  text-align: center;
+}
+
+.feature-p {
+  margin: 15px 35px;
+}
+
+
+/* About Me Section */
+.about-me {
+  padding-bottom: 10%;
+  /* margin: 5% 0; */
+}
+
+
+/* .about-me {
+  padding-bottom: 6%;
+} */
+
+/* Smaller Projects Page */
 
 .card {
   max-width: 500px;
@@ -45,52 +98,116 @@ body {
   max-height: 50%; */
 }
 
+
+/* Header */
+.header-text {
+  color: #BBBBBB;
+  padding: .5% 1%;
+}
+
+.header-list-item {
+  /* margin: 3% 5%; */
+}
+
 /* Footer */
 .page-footer {
-  margin-bottom: -3%;
-  margin-top: 5%;
-  padding-top: 15px;
-  padding-bottom: 1px;
+  /* margin-bottom: -3%; */
+  padding-top: 10px;
+  /* padding-bottom: 1px; */
 }
 
 .footer-text {
-  padding-bottom: 250px;
   text-align: center;
-}
-
-
-/* Home Page */
-
-/* Graphics.jsx */
-.features-mini-section {
-  text-align: center;
+  color: #BBBBBB;
 }
 
 
 /* Contact Page */
-.contact-form-item {
-  padding: 10px;
+.contact-form {
+  margin: 4% auto;
 }
 
-.contact-form-message {
-  padding: 10px;
+.contact-form-item {
+  margin: 2% 1.5%;
+  border-radius: 15px; 
 }
 
 .contact-form-button {
-  padding: 10px;
+  border-radius: 7px;
+  /* width: 17%; */
+  margin: 15px 0;
+  max-width: 125%;
+  max-height: 75%;
+  padding: 1.2% 15%;
 }
 
-.contact-form-button:hover {
-  background-color: green;
+.contact-button-row {
+  /* height: 25%px; */
 }
+
+.button-column {
+  text-align: center;
+}
+
+/* .contact-form-message {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+/* body { background:rgb(30,30,40); } */
+/* form { max-width:420px; margin:50px auto; }
+
+.contact-form-item {
+  color:white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #CC6666;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.contact-form-item:focus { border:2px solid #CC4949; }
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#CC6666;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:white;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { 
+  background: green; 
+}
+ */ 
+
 
 
 /* Larger Projects Page */
 .larger-projects-section {
-  padding: 5% 8%;
+  padding: 1% 8%;
+  margin-bottom: 225px;
 }
 
 .larger-projects-headercard {
-
   margin-bottom: 4%;
 }

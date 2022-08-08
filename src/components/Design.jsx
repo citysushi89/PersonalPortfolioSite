@@ -2,8 +2,8 @@ import React from "react";
 
 function Design() {
     return (
-    <div className="nocolor">
-        <h1>Fancy Design goes here mmmmm</h1>
+    <div className="nocolor home-page-section gray-section">
+        <h1 className="page-title">Fancy Design goes here mmmmm</h1>
 
 
      </div>

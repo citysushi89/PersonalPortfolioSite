@@ -2,7 +2,7 @@ import React from "react";
 
 function AboutMe() {
     return (
-    <div className="nocolor">
+    <div className="home-page-section gray-section about-me">
         <section id="AboutMe">
             <h1>About Me</h1>
             <p>Hello fren. My name is Owen.</p>

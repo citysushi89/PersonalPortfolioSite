@@ -32,7 +32,7 @@ const smallerProjectsList = [
         tagThree: "ie pyperclip",
         gitURL: "",
 
-    },
+    }
 
 ];
 

@@ -1,14 +1,18 @@
 Functional TODOs
-1) Finish functionality of contact me form
-2) Style contact me form
+- Style contact me form (need to import semantic ui css... downloaded to package.json but not working)
+- Finsih text on smaller projects and larger projects pages
+-  Finish initial home page design
 
-1) Hamburger not working - may have to use states
-2) replace gitURL with link on third item in smallprojectlist.js
+- Hamburger not working - may have to use states
+- replace gitURL with link on third item in smallprojectlist.js
 
 Other TODOs
+- Add button to see github code? example: https://react-bootstrap.github.io/components/cards/
+- In Contact Me Page, replace the info in the function to send email with env variables
 
-Smaller Projects
+Smaller Projects to potentially add
 1) Add instagram liker bot to smaller projects? 
   - need to add .env for stuff
-2) Add button to see github code? example: https://react-bootstrap.github.io/components/cards/
+2) Add 100 Day of Python Day 92 NFL stats, make more visualizations of the data
+
 
