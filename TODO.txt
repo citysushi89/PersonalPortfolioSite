@@ -1,9 +1,8 @@
 Functional TODOs
-- Style contact me form (need to import semantic ui css... downloaded to package.json but not working)
 - Finsih text on smaller projects and larger projects pages
 -  Finish initial home page design
+- Hamborger color should be the same as other header elements
 
-- Hamburger not working - may have to use states
 - replace gitURL with link on third item in smallprojectlist.js
 
 Other TODOs
@@ -14,5 +13,6 @@ Smaller Projects to potentially add
 1) Add instagram liker bot to smaller projects? 
   - need to add .env for stuff
 2) Add 100 Day of Python Day 92 NFL stats, make more visualizations of the data
+3) Add more to watermarking app and connect to the personal site
 
 

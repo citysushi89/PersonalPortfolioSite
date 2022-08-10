@@ -6,25 +6,25 @@ import React from "react";
 function Card(props) {
 
     return (
-    <div className="gray-section">   
-        {/* <section className="gray-section"> */}
+    <div className="gray-section small-projects-section">
+        {/* <section className="small-projects-section">  */}
             <div className="cardList">
-                    <div className="card">
-                        <a href={props.gitURL}>
-                        <img src={props.img} className="card-img-top small-projects-imgs" alt="..."  />
-                        </a>
-                        <div class="card-body">
-                            <h5 class="card-title">{props.title}</h5>
-                            <p class="card-text">{props.description}</p>
+                        <div className="card">
+                            <a href={props.gitURL}>
+                            <img src={props.img} className="card-img-top small-projects-imgs" alt="..."  />
+                            </a>
+                            <div class="card-body">
+                                <h5 className="card-title">{props.title}</h5>
+                                <p className="card-text">{props.description}</p>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li className="list-group-item card-list-item">{props.tagOne}</li>
+                                <li className="list-group-item card-list-item">{props.tagTwo}</li>
+                                <li className="list-group-item card-list-item">{props.tagThree}</li>
+                            </ul>
                         </div>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">{props.tagOne}</li>
-                            <li class="list-group-item">{props.tagTwo}</li>
-                            <li class="list-group-item">{props.tagThree}</li>
-                        </ul>
-                    </div>
                 </div> 
-        {/* </section> */}
+            {/* </section>     */}
     </div>
     );
 }

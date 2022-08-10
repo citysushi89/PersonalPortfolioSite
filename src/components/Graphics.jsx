@@ -13,20 +13,20 @@ function Graphics() {
       <div class="row">
         <div class="col-lg-4 col-md-12 features-mini-section">
           <HandymanOutlinedIcon fontSize="large" className="feature-item" />
-          <h3 className="feature-title">I build things</h3>
-          <p className="feature-p">Wether working in full-stack web development or creating programs in Python, I build stuff.</p>
+          <h3 className="feature-title">I like to build things</h3>
+          <p className="feature-p">I primarily work in Python, but also work in web development including HTML and CSS and the Javascript to put it all together.</p>
         </div>
 
         <div class="col-lg-4 col-md-12 features-mini-section">
           <LanguageOutlinedIcon fontSize="large" className="feature-item"/>
           <h3 class="feature-title">Web Work</h3>
-          <p className="feature-p">Whether you want to extract data from a website or automate your business's Instagram activity, I can do it!</p>
+          <p className="feature-p">From extracting and analyzing data online, to automating online activity, I can do it!</p>
         </div>
 
         <div class="col-lg-4 col-md-12 features-mini-section">
           <DomainVerificationOutlinedIcon fontSize="large" className="feature-item"/>
           <h3 class="feature-title">To Ui or not to UI</h3>
-          <p className="feature-p">Want a fancy UI to launch an application or just want the barebones to accomplish a task? Both are doable.</p>
+          <p className="feature-p">Many of the smaller projects on this site are text-based programs built to accomplish a task, while the larger projects are built with more UX ideas in mind.</p>
         </div>
       </div>
 
