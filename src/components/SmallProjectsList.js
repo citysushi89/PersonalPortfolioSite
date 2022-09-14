@@ -43,6 +43,17 @@ const smallerProjectsList = [
         tagThree: "Pyautogui",
         gitURL: "https://github.com/citysushi89/small_projects/blob/main/dino.py",
 
+    },
+    {
+        id: 5,
+        title: "NFL Data Analysis",
+        imgURL: "https://images.pexels.com/photos/128457/pexels-photo-128457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "Program scrapes data from ESPN and visualizes player statistics using graphs.",
+        tagOne: "Data visualization with Plotly and Matplotlib",
+        tagTwo: "Web scraping with Beautiful Soup",
+        tagThree: "Data organization with pandas",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
+
     }
 
 ];
