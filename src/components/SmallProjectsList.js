@@ -54,6 +54,15 @@ const smallerProjectsList = [
         tagThree: "Data organization with pandas",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
 
+    }, 
+    {
+        id: 6,
+        title: "Unit Testing",
+        imgURL: "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?cs=srgb&dl=pexels-andy-barbour-6684255.jpg&fm=jpg",
+        description: "Program contains basic math operations and uses the unittest module to assess their effectiveness.",
+        tagOne: "Unit Tests",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
+
     }
 
 ];
