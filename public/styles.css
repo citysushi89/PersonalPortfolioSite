@@ -2,6 +2,7 @@
 
 /* Old ... NEW */
 /* background: E7F6F2 ... F5EFE6 */
+
 /* Dark section: 395B64 ... AEBDCA */
 /* Extra dark - button backgrounds 2C3333 ...  7895B2*/
 
@@ -24,16 +25,16 @@ body {
 }
 
 .button-color:hover {
-  background-color: #AEBDCA;
+  background-color: #7895B2;
 }
 
 /* Section Colors */
 .dark-section {
-  background-color: #AEBDCA;
+  background-color: #7895B2;
 }
 
 .light-section {
-  background-color: #A5C9CA
+  background-color: #F5EFE6
 }
 
 
