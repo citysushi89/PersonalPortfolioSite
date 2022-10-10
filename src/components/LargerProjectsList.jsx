@@ -23,7 +23,7 @@ const largerProjectsList = [
 
         subtitle3: "Backend",
         subtext3: "SQL Database",
-        imgURL3: "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        imgURL3: "https://images.pexels.com/photos/2881232/pexels-photo-2881232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem31: "SQL database for users and data",
         listitem32: "Hashing and Salting login information",
         listitem33: "Uses standard Django admin page",
@@ -48,12 +48,12 @@ const largerProjectsList = [
         listitem22: "User input",
         listitem23: "csv",
 
-        subtitle2: "Pdf Reading",
-        subtext2: "Program Extracts Data with PdfPlumber",
-        imgURL2: "https://images.pexels.com/photos/2310904/pexels-photo-2310904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        listitem21: "Pdf plumber",
-        listitem22: "Data organization",
-        listitem23: "pdf and csv",
+        subtitle3: "Pdf Reading",
+        subtext3: "Program Extracts Data with PdfPlumber",
+        imgURL3: "https://images.pexels.com/photos/586019/pexels-photo-586019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem31: "Pdf plumber",
+        listitem32: "Data organization",
+        listitem33: "pdf and csv",
     },
 
 ];
