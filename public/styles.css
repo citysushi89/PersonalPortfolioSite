@@ -6,12 +6,10 @@
 /* Dark section: 395B64 ... AEBDCA */
 /* Extra dark - button backgrounds 2C3333 ...  7895B2*/
 
-/*  */
-
 body {
   text-align: center;
   background-color: #F5EFE6;
-  color: #7E7E7E
+  color: #7E7E7E;
 }
 
 .page-title {
@@ -25,7 +23,7 @@ body {
 }
 
 .button-color:hover {
-  background-color: #7895B2;
+  background-color: #AEBDCA;
 }
 
 /* Section Colors */
@@ -34,14 +32,14 @@ body {
 }
 
 .light-section {
-  background-color: #F5EFE6
+  background-color: #E8DFCA;
 }
 
 
 /* # */
 
 .gray-section {
-  background-color: #E7F6F2;
+  background-color: #F5EFE6;
 }
 
 
