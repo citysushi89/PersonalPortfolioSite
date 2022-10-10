@@ -17,8 +17,10 @@ import largerProjectsList from "../components/LargerProjectsList";
 
 function LargerProjectsCard(props) {
     return (
+    <div> 
+    
+    <h1 className="page-title">Sampling of Larger Projects</h1>
     <div className="larger-projects-section">
-        <h1 className="page-title">Larger Projects Page reeee</h1>
 
       {/* <section className=""> */}
         <MDBCard className='mw-100 p-3 larger-projects-headercard'>
@@ -89,6 +91,7 @@ function LargerProjectsCard(props) {
     </MDBRow>
 
         </div>      
+      </div>
     );
 }
 

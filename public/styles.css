@@ -1,7 +1,15 @@
 /* General */
+
+/* Old ... NEW */
+/* background: E7F6F2 ... F5EFE6 */
+/* Dark section: 395B64 ... AEBDCA */
+/* Extra dark - button backgrounds 2C3333 ...  7895B2*/
+
+/*  */
+
 body {
   text-align: center;
-  background-color: #E7F6F2;
+  background-color: #F5EFE6;
   color: #7E7E7E
 }
 
@@ -11,17 +19,17 @@ body {
 }
 
 .button-color {
-  background-color: #2C3333;
+  background-color: #7895B2;
   color: #ffffff;
 }
 
 .button-color:hover {
-  background-color: #395B64;
+  background-color: #AEBDCA;
 }
 
 /* Section Colors */
 .dark-section {
-  background-color: #395B64;
+  background-color: #AEBDCA;
 }
 
 .light-section {
@@ -120,7 +128,7 @@ body {
 }
 
 .header-text:hover {
-  color: #2C3333;
+  color: #7895B2;
  }
 
 .header-text-name {

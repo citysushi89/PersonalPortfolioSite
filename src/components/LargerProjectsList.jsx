@@ -47,6 +47,13 @@ const largerProjectsList = [
         listitem21: "Outlook automation",
         listitem22: "User input",
         listitem23: "csv",
+
+        subtitle2: "Pdf Reading",
+        subtext2: "Program Extracts Data with PdfPlumber",
+        imgURL2: "https://images.pexels.com/photos/2310904/pexels-photo-2310904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem21: "Pdf plumber",
+        listitem22: "Data organization",
+        listitem23: "pdf and csv",
     },
 
 ];
