@@ -28,7 +28,26 @@ const largerProjectsList = [
         listitem32: "listitem32",
         listitem33: "listitem33",
     },
-    
+    {
+        id: 101,
+        bigtitle: "Business Automation",
+        titledescription: "Various smaller programs that automate business tasks I found repetitive while running my business.",
+        gitbaseURL: "https://github.com/citysushi89/BusinessAutomation",
+
+        subtitle1: "Instagram Liker",
+        subtext1: "Built with Selenium Webdriver",
+        imgURL1: "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem11: "Web Automation",
+        listitem12: "Time Module",
+        listitem13: "Social Media",
+        
+        subtitle2: "Email Reply Reminder",
+        subtext2: "User logs when and to what email want to follow on then the Program seaches the inbox for a response, and if none is there it autopopulates a follow up email to send",
+        imgURL2: "https://images.pexels.com/photos/193003/pexels-photo-193003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem21: "Outlook automation",
+        listitem22: "User input",
+        listitem23: "csv",
+    },
 
 ];
 
