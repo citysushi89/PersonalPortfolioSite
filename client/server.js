@@ -4,7 +4,7 @@ const axios = require('axios');
 // Loads env variables
 require('dotenv').config()
 const app = express();
-// const PORT = process.env.PORT || 3001;
+const port = process.env.PORT || 3001;
 // Adds json parsing middleware
 app.use(express.json());
 // Setup static directory to serve
@@ -43,11 +43,11 @@ app.get('*', (req, res) => {
     res.sendFile(path.resolve('client', 'build', 'index.html'));
 });
 
-let port = process.env.PORT;
-if (port == null || port == "") {
-    port = 3000;
-}
-app.listen(port);
+// let port = process.env.PORT;
+// if (port == null || port == "") {
+//     port = 3000;
+// }
+// app.listen(port);
 
 // console.log that your server is up and running
 app.listen(port, () => console.log('Listening on port ${port}'));
