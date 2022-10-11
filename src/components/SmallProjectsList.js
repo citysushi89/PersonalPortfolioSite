@@ -1,6 +1,17 @@
 
 const smallerProjectsList = [
     {
+        id: 8,
+        title: "Selection of Small Book Projects",
+        imgURL: "https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "Link includes a few small projects done following the Big Book of Small Python Projects.",
+        tagOne: "Cho Han (Dice Game)",
+        tagTwo: "Clickbait Headline Generator",
+        tagThree: "Countdown",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/Book%20Projects",
+
+    },
+    {
         id: 7,
         title: "Space Invaders Clone",
         imgURL: "https://images.pexels.com/photos/7319078/pexels-photo-7319078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
