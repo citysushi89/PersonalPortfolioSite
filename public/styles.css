@@ -1,10 +1,5 @@
 /* General */
-
-/* Old ... NEW */
-/* background: E7F6F2 ... F5EFE6 */
-
-/* Dark section: 395B64 ... AEBDCA */
-/* Extra dark - button backgrounds 2C3333 ...  7895B2*/
+/* Color Pallet: https://colorhunt.co/palette/f5efe6e8dfcaaebdca7895b2 */
 
 body {
   text-align: center;
@@ -23,7 +18,7 @@ body {
 }
 
 .button-color:hover {
-  background-color: #AEBDCA;
+  background-color: #7895B2;
 }
 
 /* Section Colors */
@@ -127,7 +122,7 @@ body {
 }
 
 .header-text:hover {
-  color: #7895B2;
+  color: #ffffff;
  }
 
 .header-text-name {
@@ -184,7 +179,7 @@ body {
 /* Larger Projects Page */
 .larger-projects-section {
   padding: 1% 8%;
-  margin-bottom: 225px;
+  margin-bottom: 150px;
 }
 
 .larger-projects-headercard {
