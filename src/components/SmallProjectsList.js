@@ -1,6 +1,17 @@
 
 const smallerProjectsList = [
     {
+        id: 7,
+        title: "Space Invaders Clone",
+        imgURL: "https://images.pexels.com/photos/7319078/pexels-photo-7319078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "Blantant Rip off of the gameplay of Space Invaders with a unique setting.",
+        tagOne: "Pygame and Pyautogui",
+        tagTwo: "Uses sounds for player feedback",
+        tagThree: "Perpetually checks for collisions and endgame conditions",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/SpaceInvaders",
+
+    },
+    {
         id: 1,
         title: "Encoder/Decoder",
         imgURL: "https://images.pexels.com/photos/7319078/pexels-photo-7319078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -11,17 +22,17 @@ const smallerProjectsList = [
         gitURL: "https://github.com/citysushi89/small_projects/blob/main/encoderDecoder.py",
 
     },
-    {
-        id: 2,
-        title: "BlackJack",
-        imgURL: "https://images.pexels.com/photos/1871508/pexels-photo-1871508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        description: "Text-based Blackjack game.",
-        tagOne: "Tag concepts / libraries / languages used",
-        tagTwo: "ie Python",
-        tagThree: "ie pyperclip",
-        gitURL: "https://github.com/citysushi89/small_projects/blob/main/blackjack.py",
+    // {
+    //     id: 2,
+    //     title: "BlackJack",
+    //     imgURL: "https://images.pexels.com/photos/1871508/pexels-photo-1871508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    //     description: "Text-based Blackjack game.",
+    //     tagOne: "Tag concepts / libraries / languages used",
+    //     tagTwo: "ie Python",
+    //     tagThree: "ie pyperclip",
+    //     gitURL: "https://github.com/citysushi89/small_projects/blob/main/blackjack.py",
 
-    },
+    // },
     {
         id: 3,
         title: "Image Watermarker",
