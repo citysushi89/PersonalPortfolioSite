@@ -14,19 +14,19 @@ function Graphics() {
         <div class="col-lg-4 col-md-12 features-mini-section">
           <HandymanOutlinedIcon fontSize="large" className="feature-item" />
           <h3 className="feature-title">I like to build things</h3>
-          <p className="feature-p">I primarily work in Python, but also work in web development including HTML and CSS and the Javascript to put it all together.</p>
+          <p className="feature-p">I primarily work in Python, but also work in web development including HTML, CSS and Javascript to put it all together.</p>
         </div>
 
         <div class="col-lg-4 col-md-12 features-mini-section">
           <LanguageOutlinedIcon fontSize="large" className="feature-item"/>
           <h3 class="feature-title">Web Work</h3>
-          <p className="feature-p">From extracting and analyzing data online, to automating online activity, I can do it!</p>
+          <p className="feature-p">From extracting and analyzing data, to automating online activity, to building sites like this one, I can do it!</p>
         </div>
 
         <div class="col-lg-4 col-md-12 features-mini-section">
           <DomainVerificationOutlinedIcon fontSize="large" className="feature-item"/>
           <h3 class="feature-title">To Ui or not to UI</h3>
-          <p className="feature-p">Many of the smaller projects on this site are text-based programs built to accomplish a task, while the larger projects are built with more UX ideas in mind.</p>
+          <p className="feature-p">The smaller projects page contains mostly text-based one-off projects designed to accomplish a task or build a particular tool. While the larger projects page contains groups of smaller projects or projects designed for external use.</p>
         </div>
       </div>
 
