@@ -17,7 +17,6 @@ import largerProjectsList from "../components/LargerProjectsList";
 
 function LargerProjectsCard(props) {
     return (
-    <div> 
     <div className="larger-projects-section">
 
       {/* <section className=""> */}
@@ -78,9 +77,9 @@ function LargerProjectsCard(props) {
         </MDBCardText>
       </MDBCardBody>
       <MDBListGroup flush>
-        <MDBListGroupItem> {props.listitem31} </MDBListGroupItem>
-        <MDBListGroupItem> {props.listitem32} </MDBListGroupItem>
-        <MDBListGroupItem> {props.listitem33} </MDBListGroupItem>
+        <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem31} </MDBListGroupItem>
+        <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem32} </MDBListGroupItem>
+        <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem33} </MDBListGroupItem>
       </MDBListGroup>
     </MDBCard>
 
@@ -89,7 +88,6 @@ function LargerProjectsCard(props) {
     </MDBRow>
 
         </div>      
-      </div>
     );
 }
 
