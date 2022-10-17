@@ -73,11 +73,11 @@ body {
 /* About Me Section */
 .about-me {
   padding: 7% auto;
+  margin: 3% auto;
   /* margin-bottom: 50px; */
 }
 
 /* Smaller Projects Page */
-
 
 .card {
   max-width: 500px;
@@ -96,7 +96,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: auto;
+  margin: 2% auto;
   max-width: 95%;
 }
 
