@@ -14,7 +14,7 @@ function Graphics() {
         <div class="col-lg-4 col-md-12 features-mini-section">
           <HandymanOutlinedIcon fontSize="large" className="feature-item" />
           <h3 className="feature-title">I like to build things</h3>
-          <p className="feature-p">I primarily work in Python, but also work in web development including HTML, CSS and Javascript to put it all together.</p>
+          <p className="feature-p">I primarily work in Python, but I also work in web development including HTML, CSS and Javascript to put it all together.</p>
         </div>
 
         <div class="col-lg-4 col-md-12 features-mini-section">
@@ -25,8 +25,8 @@ function Graphics() {
 
         <div class="col-lg-4 col-md-12 features-mini-section">
           <DomainVerificationOutlinedIcon fontSize="large" className="feature-item"/>
-          <h3 class="feature-title">To Ui or not to UI</h3>
-          <p className="feature-p">The smaller projects page contains mostly text-based one-off projects designed to accomplish a task or build a particular tool. While the larger projects page contains groups of smaller projects or projects designed for external use.</p>
+          <h3 class="feature-title">UI?</h3>
+          <p className="feature-p">While many of my personal projects remain text-based, I can build UIs in React, Django, and Flask to deploy projects to the web.</p>
         </div>
       </div>
 
