@@ -79,11 +79,8 @@ body {
 
 /* Smaller Projects Page */
 
-.card {
-  /* max-width: 500px; */
-  /* justify-content: center; */
-  /* max-width: 500px; */
-  /* max-height: 15%; */
+.small-proj-card {
+  max-width: 500px;
 }
 
 .larger-proj-detail-card {
