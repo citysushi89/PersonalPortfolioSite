@@ -9,9 +9,3 @@ Colors:
 #3C4048 Dark Background - just button hover color
 #B2B2B2 - Light background/gray  
 #EAEAEA - Super light background/gray 
-
-
-DONE 
-button
-footer
-image backround

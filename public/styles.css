@@ -78,6 +78,8 @@ body {
 
 .card {
   max-width: 500px;
+  display: flex;
+  justify-content: center;
   /* justify-content: center; */
   /* max-width: 500px; */
   /* max-height: 15%; */
@@ -153,7 +155,6 @@ body {
 
 .page-footer {
   padding-top: 10px;
-  padding-bottom: 3px;
   margin-bottom: -1%;
 }
 
@@ -166,6 +167,7 @@ body {
 /* Contact Page */
 .contact-form {
   margin: 4% auto;
+  padding-bottom: 25%;
 }
 
 .contact-form-item {
