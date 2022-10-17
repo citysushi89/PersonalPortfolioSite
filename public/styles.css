@@ -5,6 +5,7 @@ body {
   text-align: center;
   background-color: #EAEAEA;
   color: #7E7E7E;
+  font-family: 'Roboto', 'sans-serif';
 }
 
 .page-title {
@@ -13,13 +14,12 @@ body {
 }
 
 .button-color {
-  background-color: #00ABB3;
+  background-color: #3C4048;
   color: #3C4048;
 }
 
 .button-color:hover {
-  /* background-color: #3C4048; */
-  color: #ffffff;
+  background-color: #00ABB3;
 }
 
 /* Section Colors */
@@ -34,6 +34,11 @@ body {
 }
 
 /* # */
+/* mid-tier gray section */
+.middle-gray-section {
+  background-color: #EAEAEA;
+}
+
 /* Lightest section */
 .gray-section {
   background-color: #EAEAEA;
@@ -68,10 +73,6 @@ body {
 }
 
 /* Smaller Projects Page */
-
-.mdb-card {
-  background-color: #B2B2B2;
-}
 
 
 .card {
@@ -114,6 +115,10 @@ body {
 
 .small-projects-section {
   margin-bottom: 4%;
+}
+
+.proj-card {
+  background-color: #EAEAEA;
 }
 
 
