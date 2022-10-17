@@ -2,9 +2,6 @@ Other TODOs
 - In Contact Me Page, replace the info in the function to send email with env variables
 
 
-TODO 10/12
-- change static text color
-
 Reference
 https://colorhunt.co/palette/00abb33c4048b2b2b2eaeaea
 Colors:
