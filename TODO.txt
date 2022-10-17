@@ -1,18 +1,18 @@
-Functional TODOs
-- Finsih text on smaller projects and larger projects pages
--  Finish initial home page design
-- Hamborger color should be the same as other header elements
-
-- replace gitURL with link on third item in smallprojectlist.js
-
 Other TODOs
-- Add button to see github code? example: https://react-bootstrap.github.io/components/cards/
 - In Contact Me Page, replace the info in the function to send email with env variables
 
-Smaller Projects to potentially add
-1) Add instagram liker bot to smaller projects? 
-  - need to add .env for stuff
-2) Add 100 Day of Python Day 92 NFL stats, make more visualizations of the data
-3) Add more to watermarking app and connect to the personal site
+Done since last commit:
+1. Adjust TODOs
+2. Change larger project text
+3. Change to new color pallete
 
+TODO 10/12
+- change static text color
 
+Reference
+https://colorhunt.co/palette/00abb33c4048b2b2b2eaeaea
+Colors:
+#00ABB3 - green
+#3C4048 Dark Background - just button hover color
+#B2B2B2 - Light background/gray  
+#EAEAEA - Super light background/gray 

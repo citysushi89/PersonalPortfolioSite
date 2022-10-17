@@ -4,11 +4,11 @@ const largerProjectsList = [
     {
         id: 100,
         bigtitle: "Wholesale Sorter",
-        titledescription: "Program uses your choice of Morse Code or the Caesar Cipher to encode and decode text.",
+        titledescription: "In a business project my partner and I had trouble ordering from wholesalers becuase they all required a login to view their stock. This project logs into all their websites and downloads the data as a csv and also displays the data in a paginated table for other users.",
         gitbaseURL: "https://github.com/citysushi89/FFLWholesaleDjangoFrontEnd/",
 
         subtitle1: "Website",
-        subtext1: "Built with Flask, Bootstrap, SQLAlchemy, and Werkzeug Security ",
+        subtext1: "First iteration was built with Flask, SQLAlchemy, Werkzeug Security, and Bootstrap before switching over to Django",
         imgURL1: "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem11: "Authenticates users",
         listitem12: "Tables",
@@ -42,11 +42,11 @@ const largerProjectsList = [
         listitem13: "Social Media",
         
         subtitle2: "Email Reply Reminder",
-        subtext2: "User logs when and to what email want to follow on then the Program seaches the inbox for a response, and if none is there it autopopulates a follow up email to send",
+        subtext2: "User logs when and to what email they want to follow up on then the Program seaches the inbox for a response, and if none is there, it autopopulates a follow up email to send",
         imgURL2: "https://images.pexels.com/photos/193003/pexels-photo-193003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        listitem21: "Outlook automation",
+        listitem21: "Email automation",
         listitem22: "User input",
-        listitem23: "csv",
+        listitem23: "reading and writing to csv",
 
         subtitle3: "Pdf Reading",
         subtext3: "Program Extracts Data with PdfPlumber",
