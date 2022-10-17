@@ -38,7 +38,9 @@ const smallerProjectsList = [
         title: "Unit Testing",
         imgURL: "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?cs=srgb&dl=pexels-andy-barbour-6684255.jpg&fm=jpg",
         description: "Program contains basic math operations and uses the unittest module to assess their effectiveness.",
-        tagOne: "Unit Tests",
+        tagOne: "Unitest module",
+        tagTwo: "Basic math operations confirmed via testing",
+        tagTwo: "Importing",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
 
     },
