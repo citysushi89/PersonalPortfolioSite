@@ -16,8 +16,7 @@ import largerProjectsList from "../components/LargerProjectsList";
   
 
 function LargerProjectsCard(props) {
-    return (
-    <div className='middle-gray-section'>    
+    return (  
       <div className="larger-projects-section">
 
         {/* <section className=""> */}
@@ -33,14 +32,14 @@ function LargerProjectsCard(props) {
         <MDBCol>
 
         <MDBCard>
-        <MDBCardImage position='top' alt='...' src={props.imgURL1} />
+        <MDBCardImage className='gray-section' position='top' alt='...' src={props.imgURL1} />
         <MDBCardBody className="gray-section">
           <MDBCardTitle>{props.subtitle1}</MDBCardTitle>
           <MDBCardText>
           {props.subtext1}
           </MDBCardText>
         </MDBCardBody>
-        <MDBListGroup className="gray-section" flush>
+        <MDBListGroup flush>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem11} </MDBListGroupItem>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem12} </MDBListGroupItem>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem13} </MDBListGroupItem>
@@ -52,14 +51,14 @@ function LargerProjectsCard(props) {
       
 
       <MDBCard>
-        <MDBCardImage position='top' alt='...' src={props.imgURL2} />
+        <MDBCardImage className='gray-section' position='top' alt='...' src={props.imgURL2} />
         <MDBCardBody className="gray-section">
           <MDBCardTitle>{props.subtitle2}</MDBCardTitle>
           <MDBCardText>
           {props.subtext2}
           </MDBCardText>
         </MDBCardBody>
-        <MDBListGroup className="gray-section" flush>
+        <MDBListGroup flush>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem21} </MDBListGroupItem>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem22} </MDBListGroupItem>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem23} </MDBListGroupItem>
@@ -70,14 +69,14 @@ function LargerProjectsCard(props) {
       <MDBCol>
 
       <MDBCard>
-        <MDBCardImage position='top' alt='...' src={props.imgURL3} />
-        <MDBCardBody className="gray-section">
+        <MDBCardImage className='gray-section'position='top' alt='...' src={props.imgURL3} />
+        <MDBCardBody>
           <MDBCardTitle>{props.subtitle3}</MDBCardTitle>
           <MDBCardText>
             {props.subtext3}
           </MDBCardText>
         </MDBCardBody>
-        <MDBListGroup className="gray-section" flush>
+        <MDBListGroup flush>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem31} </MDBListGroupItem>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem32} </MDBListGroupItem>
           <MDBListGroupItem className="list-group-item card-list-item"> {props.listitem33} </MDBListGroupItem>
@@ -90,7 +89,6 @@ function LargerProjectsCard(props) {
 
         </div>      
 
-      </div>
     );
 }
 
