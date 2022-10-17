@@ -6,7 +6,7 @@ import React from "react";
 function Card(props) {
 
     return (
-    <div className="gray-section small-projects-section">
+    <div className="gray-section small-projects-section mdb-card">
         {/* <section className="small-projects-section">  */}
             <div className="cardList">
                         <div className="card">

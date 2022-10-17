@@ -23,17 +23,18 @@ body {
 }
 
 /* Section Colors */
+/* Accent / bright color */
 .dark-section {
   background-color: #00ABB3;
 }
 
+/* Lighter than accent color */
 .light-section {
   background-color: #3C4048;
 }
 
-
 /* # */
-
+/* Light section */
 .gray-section {
   background-color: #EAEAEA;
 }
@@ -67,6 +68,11 @@ body {
 }
 
 /* Smaller Projects Page */
+
+.mdb-card {
+  background-color: #B2B2B2;
+}
+
 
 .card {
   max-width: 500px;
