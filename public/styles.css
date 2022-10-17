@@ -80,7 +80,7 @@ body {
 /* Smaller Projects Page */
 
 .card {
-  max-width: 500px;
+  /* max-width: 500px; */
   /* justify-content: center; */
   /* max-width: 500px; */
   /* max-height: 15%; */
@@ -162,7 +162,6 @@ body {
 
 .page-footer {
   padding-top: 10px;
-  padding-bottom: 1px;
   margin-bottom: -1%;
 }
 
