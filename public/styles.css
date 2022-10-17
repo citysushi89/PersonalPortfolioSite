@@ -78,11 +78,14 @@ body {
 
 .card {
   max-width: 500px;
-  display: flex;
-  justify-content: center;
   /* justify-content: center; */
   /* max-width: 500px; */
   /* max-height: 15%; */
+}
+
+.larger-proj-detail-card {
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .cardList {
@@ -191,7 +194,8 @@ body {
 /* Larger Projects Page */
 .larger-projects-section {
   padding: 1% 8%;
-  margin-bottom: 150px;
+  margin-top: 25px;
+  margin-bottom: 125px;
 }
 
 .larger-projects-headercard {

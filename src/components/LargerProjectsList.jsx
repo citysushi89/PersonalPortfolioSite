@@ -46,14 +46,14 @@ const largerProjectsList = [
         imgURL2: "https://images.pexels.com/photos/193003/pexels-photo-193003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem21: "Email automation",
         listitem22: "User input",
-        listitem23: "reading and writing to csv",
+        listitem23: "Reading and writing to csv",
 
         subtitle3: "Pdf Reading",
         subtext3: "Program Extracts Data with PdfPlumber",
         imgURL3: "https://images.pexels.com/photos/586019/pexels-photo-586019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem31: "Pdf plumber",
         listitem32: "Data organization",
-        listitem33: "pdf and csv",
+        listitem33: "Pdf and csv",
     },
 
 ];

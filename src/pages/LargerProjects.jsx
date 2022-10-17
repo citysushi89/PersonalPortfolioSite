@@ -31,7 +31,7 @@ function LargerProjectsCard(props) {
         <MDBRow className='row-cols-1 row-cols-lg-3 row-cols-md-2 g-4'>
         <MDBCol>
 
-        <MDBCard>
+        <MDBCard className='larger-proj-detail-card'>
         <MDBCardImage className='gray-section' position='top' alt='...' src={props.imgURL1} />
         <MDBCardBody>
           <MDBCardTitle>{props.subtitle1}</MDBCardTitle>
@@ -50,7 +50,7 @@ function LargerProjectsCard(props) {
       <MDBCol>
       
 
-      <MDBCard>
+      <MDBCard className='larger-proj-detail-card'>
         <MDBCardImage className='gray-section' position='top' alt='...' src={props.imgURL2} />
         <MDBCardBody>
           <MDBCardTitle>{props.subtitle2}</MDBCardTitle>
@@ -68,7 +68,7 @@ function LargerProjectsCard(props) {
       </MDBCol>
       <MDBCol>
 
-      <MDBCard>
+      <MDBCard className='larger-proj-detail-card'>
         <MDBCardImage className='gray-section'position='top' alt='...' src={props.imgURL3} />
         <MDBCardBody>
           <MDBCardTitle>{props.subtitle3}</MDBCardTitle>
