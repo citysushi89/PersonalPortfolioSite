@@ -17,7 +17,7 @@ import largerProjectsList from "../components/LargerProjectsList";
 
 function LargerProjectsCard(props) {
     return (
-    <div className='light-section'>    
+    <div className='middle-gray-section'>    
       <div className="larger-projects-section">
 
         {/* <section className=""> */}

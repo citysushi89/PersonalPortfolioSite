@@ -7,7 +7,7 @@ function Footer() {
     const year =  new Date().getFullYear();
     
     return (
-    <div>
+    <div className="dark-section">
         {/* <!-- Footer --> */}
         <footer class="page-footer blue dark-section">
         <p class="footer-copyright py-3 footer-text">© Copyright {year} Owen Pickard</p>

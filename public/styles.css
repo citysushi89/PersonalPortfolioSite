@@ -20,6 +20,7 @@ body {
 
 .button-color:hover {
   background-color: #00ABB3;
+  color: #EAEAEA;
 }
 
 /* Section Colors */
@@ -36,7 +37,7 @@ body {
 /* # */
 /* mid-tier gray section */
 .middle-gray-section {
-  background-color: #EAEAEA;
+  background-color: #B2B2B2;
 }
 
 /* Lightest section */
@@ -151,6 +152,8 @@ body {
 }
 
 /* Footer */
+/.footer-section
+
 .page-footer {
   padding-top: 10px;
 }

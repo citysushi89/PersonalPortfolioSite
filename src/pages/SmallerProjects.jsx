@@ -6,10 +6,9 @@ import React from "react";
 function Card(props) {
 
     return (
-    <div className="small-projects-section mdb-card">
-        {/* <section className="small-projects-section">  */}
-            <div className="cardList">
-                        <div className="card">
+    <div className="small-projects-section middle-gray-section">
+            <div className="cardList middle-gray-section">
+                        <div className="card middle-gray-section">
                             <a href={props.gitURL}>
                             <img src={props.img} className="card-img-top small-projects-imgs gray-section" alt="..."  />
                             </a>
@@ -24,7 +23,6 @@ function Card(props) {
                             </ul>
                         </div>
                 </div> 
-            {/* </section>     */}
     </div>
     );
 }
