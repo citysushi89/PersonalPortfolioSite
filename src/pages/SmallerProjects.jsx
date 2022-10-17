@@ -9,7 +9,7 @@ function Card(props) {
         
     <div className="small-projects-section">
             <div className="cardList">
-                        <div className="small-proj-card">
+                        <div className="card small-proj-card">
                             <a href={props.gitURL}>
                             <img src={props.img} className="card-img-top small-projects-imgs" alt="..."  />
                             </a>
