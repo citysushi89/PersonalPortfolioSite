@@ -6,6 +6,7 @@ import React from "react";
 function Card(props) {
 
     return (
+        
     <div className="small-projects-section">
             <div className="cardList">
                         <div className="card">

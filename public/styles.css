@@ -53,6 +53,9 @@ body {
   text-align: center;
 }
 
+.extra-margin {
+  margin: 3%;
+}
 /* Graphics.jsx */
 .feature-item {
   margin: 25px 50px;
@@ -69,8 +72,8 @@ body {
 
 /* About Me Section */
 .about-me {
-  padding-bottom: 10%;
-  margin-bottom: 50px;
+  padding: 7% auto;
+  /* margin-bottom: 50px; */
 }
 
 /* Smaller Projects Page */
@@ -84,14 +87,15 @@ body {
 }
 
 .larger-proj-detail-card {
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .cardList {
   display: flex;
-  /* flex-wrap: wrap;
-  justify-content: center; */
+  flex-wrap: wrap;
+  justify-content: center;
   margin: auto;
   max-width: 95%;
 }
