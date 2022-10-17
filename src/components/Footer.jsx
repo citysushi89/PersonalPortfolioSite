@@ -9,7 +9,7 @@ function Footer() {
     return (
     <div>
         {/* <!-- Footer --> */}
-        <footer class="page-footer blue dark-section fixed-bottom">
+        <footer class="page-footer blue dark-section">
         <p class="footer-copyright py-3 footer-text">© Copyright {year} Owen Pickard</p>
         
         {/* Bootstrap JS  */}

@@ -17,10 +17,10 @@ import largerProjectsList from "../components/LargerProjectsList";
 
 function LargerProjectsCard(props) {
     return (
-    <div className="larger-projects-section">
+    <div className="larger-projects-section light-section">
 
       {/* <section className=""> */}
-        <MDBCard className='mw-100 p-3 larger-projects-headercard mdb-card'>
+        <MDBCard className='mw-100 p-3 larger-projects-headercard gray-section'>
         <MDBCardBody>
           <MDBCardTitle>{props.bigtitle}</MDBCardTitle>
           <MDBCardText>{props.titledescription}</MDBCardText>
@@ -29,9 +29,9 @@ function LargerProjectsCard(props) {
       </MDBCard>
 
       <MDBRow className='row-cols-1 row-cols-lg-3 row-cols-md-2 g-4'>
-      <MDBCol>
+      <MDBCol className='gray-section'>
 
-      <MDBCard className='mdb-card'>
+      <MDBCard>
       <MDBCardImage position='top' alt='...' src={props.imgURL1} />
       <MDBCardBody>
         <MDBCardTitle>{props.subtitle1}</MDBCardTitle>
@@ -50,7 +50,7 @@ function LargerProjectsCard(props) {
     <MDBCol>
     
 
-    <MDBCard className='mdb-card'>
+    <MDBCard>
       <MDBCardImage position='top' alt='...' src={props.imgURL2} />
       <MDBCardBody>
         <MDBCardTitle>{props.subtitle2}</MDBCardTitle>
@@ -68,7 +68,7 @@ function LargerProjectsCard(props) {
     </MDBCol>
     <MDBCol>
 
-    <MDBCard className='mdb-card'>
+    <MDBCard>
       <MDBCardImage position='top' alt='...' src={props.imgURL3} />
       <MDBCardBody>
         <MDBCardTitle>{props.subtitle3}</MDBCardTitle>

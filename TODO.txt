@@ -1,10 +1,6 @@
 Other TODOs
 - In Contact Me Page, replace the info in the function to send email with env variables
 
-Done since last commit:
-1. Adjust TODOs
-2. Change larger project text
-3. Change to new color pallete
 
 TODO 10/12
 - change static text color

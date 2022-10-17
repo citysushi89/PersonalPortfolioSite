@@ -34,7 +34,7 @@ body {
 }
 
 /* # */
-/* Light section */
+/* Lightest section */
 .gray-section {
   background-color: #EAEAEA;
 }
@@ -173,10 +173,6 @@ body {
   max-width: 125%;
   max-height: 75%;
   padding: 1.2% 15%;
-}
-
-.contact-button-row {
-  /* height: 25%px; */
 }
 
 .button-column {

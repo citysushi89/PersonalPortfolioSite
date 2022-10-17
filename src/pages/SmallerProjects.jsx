@@ -6,9 +6,9 @@ import React from "react";
 function Card(props) {
 
     return (
-    <div className="gray-section small-projects-section mdb-card">
+    <div className="small-projects-section mdb-card">
         {/* <section className="small-projects-section">  */}
-            <div className="cardList">
+            <div className="cardList light-section ">
                         <div className="card">
                             <a href={props.gitURL}>
                             <img src={props.img} className="card-img-top small-projects-imgs" alt="..."  />
