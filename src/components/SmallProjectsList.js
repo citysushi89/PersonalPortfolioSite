@@ -55,17 +55,17 @@ const smallerProjectsList = [
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
 
     },
-    {
-        id: 7,
-        title: "Space Invaders Clone",
-        imgURL: "https://images.pexels.com/photos/1670977/pexels-photo-1670977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        description: "Blantant Rip off of the gameplay of Space Invaders but with a unique setting",
-        tagOne: "Pygame and Pyautogui",
-        tagTwo: "Uses sounds for player feedback",
-        tagThree: "Perpetually checks for collisions and endgame conditions",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/SpaceInvaders",
+    // {
+    //     id: 7,
+    //     title: "Space Invaders Clone",
+    //     imgURL: "https://images.pexels.com/photos/1670977/pexels-photo-1670977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    //     description: "Blantant Rip off of the gameplay of Space Invaders but with a unique setting",
+    //     tagOne: "Pygame and Pyautogui",
+    //     tagTwo: "Uses sounds for player feedback",
+    //     tagThree: "Perpetually checks for collisions and endgame conditions",
+    //     gitURL: "https://github.com/citysushi89/small_projects/tree/main/SpaceInvaders",
 
-    },
+    // },
 
     // {
     //     id: 2,
