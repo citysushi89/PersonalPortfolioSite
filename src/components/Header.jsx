@@ -23,6 +23,7 @@ function Header() {
 
         {/* My styles.css  */}
         <link rel="stylesheet" href="styles.css" />
+        <title>Owen's Projects</title>
         {/* Favicon */}
         <link rel="favicon" href='public/favicon.ico'/>
 
