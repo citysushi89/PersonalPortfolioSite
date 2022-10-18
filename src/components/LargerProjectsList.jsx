@@ -49,7 +49,7 @@ const largerProjectsList = [
         listitem23: "Reading and writing to csv",
 
         subtitle3: "Pdf Reading",
-        subtext3: "Program Extracts Data with PdfPlumber",
+        subtext3: "Program Extracts Data with PdfPlumber (The data and some code has been hidden because it contains personal information)",
         imgURL3: "https://images.pexels.com/photos/586019/pexels-photo-586019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem31: "Pdf plumber",
         listitem32: "Data organization",
