@@ -24,7 +24,8 @@ function Header() {
         {/* My styles.css  */}
         <link rel="stylesheet" href="styles.css" />
         {/* Favicon */}
-        <link rel="favicon" href='public/favicon.ico?v=2'/>
+        {/* <link rel="favicon" href='public/favicon.ico?v=2'/> */}
+        <link rel="favicon" href='public\images\coding.png'/> 
 
         <Navbar collapseOnSelect expand="lg" className="dark-section header">
             <Container>

@@ -53,6 +53,10 @@ body {
   text-align: center;
 }
 
+.welcome-img {
+  max-width: 35px;
+}
+
 .extra-margin {
   margin: 3%;
 }
@@ -163,6 +167,12 @@ body {
 }
 
 .footer-text {
+  text-align: center;
+  color: #3C4048 ;
+}
+
+.attributions {
+  font-size: 6px;
   text-align: center;
   color: #3C4048 ;
 }
