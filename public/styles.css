@@ -210,7 +210,8 @@ body {
 }
 
 .attributions {
-  font-size: 6px;
+  font-size: 10px;
+  margin-bottom: 2%;
   text-align: center;
   color: #3C4048 ;
 }

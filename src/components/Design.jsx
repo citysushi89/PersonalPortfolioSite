@@ -9,7 +9,7 @@ function Design() {
         <img className='welcome-img data-icon' src='../public/images/analysis.png'/>
         <img className='welcome-img html-icon' src='..\..\public\images\html.png'/>
         <img className='welcome-img web-auto-icon' src='public\images\automation.png'/>
-        <img className='welcome-img gear-icon' src='public\images\engineering.png'/>
+        <img className='welcome-img gear-icon' src='public/images/engineering.png'/>
         {/* <a href="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="python icons"></a> */}
 
      </div>
