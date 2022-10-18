@@ -12,8 +12,10 @@ function Footer() {
         <footer class="page-footer blue dark-section">
         <p class="footer-copyright py-3 footer-text">© Copyright {year} Owen Pickard</p>
 
+        <div className="attributions-footer-section">
         {/* Icon Attributions */}
-        <a className='attributions' href="https://www.flaticon.com/free-icons/" title="python icons">icons created by Freepik, juicy_fish, Becris, RaftelDesign - Flaticon</a>
+        <p><a href="https://www.flaticon.com/free-icons/" className='attributions'  title="python icons">icons created by Freepik, juicy_fish, Becris, RaftelDesign - Flaticon</a></p>
+        </div>
         {/* Bootstrap JS  */}
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

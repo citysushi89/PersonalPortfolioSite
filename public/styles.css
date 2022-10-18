@@ -49,50 +49,18 @@ body {
 /* Home Page */
 /* Sections on Home Page */
 .home-page-section {
-  padding: 4% 10%;
-  text-align: center;
+  padding: 1%;
+  max-height: 120px;
 }
 
 .welcome-img {
   max-width: 35px;
+  margin: 0 3%;
 }
 
-.python-icon {
-  position: absolute;
-  top: 20%;
-  left: 20%;
+.icon-row {
+  margin-top: 25px;
 }
-
-.comp-icon {
-  position: absolute;
-  top: 10%;
-  left: 35%;
-}
-
-.data-icon {
-  position: absolute;
-  top: 10%;
-  right: 35%;
-}
-
-.html-icon {
-  position: absolute;
-  top: 45%;
-  left: 13%;
-}
-
-.web-auto-icon {
-  position: absolute;
-  top: 45%;
-  right: 14%;
-}
-
-.gear-icon {
-  position: absolute;
-  top: 21%;
-  right: 20%;
-}
-
 
 .extra-margin {
   margin: 3%;
@@ -199,7 +167,7 @@ body {
 }
 
 .page-footer {
-  padding-top: 10px;
+  padding-top: 5px;
   /* padding-bottom: 1%; */
   margin-bottom: -2%;
 }
@@ -210,12 +178,14 @@ body {
 }
 
 .attributions {
-  font-size: 10px;
-  margin-bottom: 2%;
-  text-align: center;
+  position: static;
+  font-size: 8px;
   color: #3C4048 ;
 }
 
+.attributions-footer-section {
+  padding-bottom: 1px;
+}
 
 /* Contact Page */
 .contact-form {
