@@ -48,9 +48,12 @@ body {
 
 /* Home Page */
 /* Sections on Home Page */
+.design-section {
+  margin-bottom: 2%;
+}
 .home-page-section {
-  padding: 1% 10%;
-  max-height: 120px;
+  padding: 3% 10%;
+  /* max-height: 120px; */
 }
 
 .welcome-img {
