@@ -57,6 +57,43 @@ body {
   max-width: 35px;
 }
 
+.python-icon {
+  position: relative;
+  bottom: 120px;
+  left: -25%;
+}
+
+.comp-icon {
+  position: relative;
+  bottom: 145px;
+  right: 1%;
+}
+
+.data-icon {
+  position: relative;
+  bottom: 125px;
+  left: 55%;
+}
+
+.html-icon {
+  position: relative;
+  bottom: -5px;
+  right: 55%;
+}
+
+.web-auto-icon {
+  position: relative;
+  bottom: 5px;
+  left: 55%;
+}
+
+.gear-icon {
+  position: relative;
+  top: 5px;
+  left: 1%;
+}
+
+
 .extra-margin {
   margin: 3%;
 }
@@ -163,7 +200,7 @@ body {
 
 .page-footer {
   padding-top: 10px;
-  padding-bottom: 1%;
+  /* padding-bottom: 1%; */
   margin-bottom: -2%;
 }
 
