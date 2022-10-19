@@ -12,6 +12,17 @@ const smallerProjectsList = [
 
     }, 
     {
+        id: 9,
+        title: "Weather Alert Texter",
+        imgURL: "https://images.pexels.com/photos/2448749/pexels-photo-2448749.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        description: "Program accesses a weather API and sends a SMS text via Twilio if it will be cold and/or rainy in the next 12 hours",
+        tagOne: "API Access",
+        tagTwo: "Twilio and SMS",
+        tagThree: "Env variables",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/WeatherAlertTexter",
+
+    }, 
+    {
         id: 1,
         title: "Encoder/Decoder",
         imgURL: "https://images.pexels.com/photos/7319078/pexels-photo-7319078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
