@@ -5,7 +5,7 @@ const largerProjectsList = [
         id: 100,
         bigtitle: "Wholesale Sorter",
         titledescription: "In a business project my partner and I had trouble ordering from wholesalers becuase they all required a login to view their stock. This project logs into all their websites and downloads the data as a csv and also displays the data in a paginated table for other users.",
-        gitbaseURL: "https://github.com/citysushi89/FFLWholesaleDjangoFrontEnd/",
+        gitbaseURL: "https://fflwholesale.herokuapp.com/",
 
         subtitle1: "Website",
         subtext1: "First iteration was built with Flask, SQLAlchemy, Werkzeug Security, and Bootstrap before switching over to Django",
