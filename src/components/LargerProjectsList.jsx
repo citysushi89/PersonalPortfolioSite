@@ -8,7 +8,7 @@ const largerProjectsList = [
         gitbaseURL: "https://fflwholesale.herokuapp.com/",
 
         subtitle1: "Website",
-        subtext1: "First iteration was built with Flask, SQLAlchemy, Werkzeug Security, and Bootstrap before switching over to Django",
+        subtext1: "Built with Flask, SQLAlchemy, Werkzeug Security, and Bootstrap",
         imgURL1: "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem11: "Authenticates users",
         listitem12: "Tables",
