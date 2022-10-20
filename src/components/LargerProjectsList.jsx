@@ -11,8 +11,8 @@ const largerProjectsList = [
         subtext1: "Built with Flask, SQLAlchemy, Werkzeug Security, and Bootstrap",
         imgURL1: "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem11: "Authenticates users",
-        listitem12: "Tables",
-        listitem13: "Pagination",
+        listitem12: "Searchable tables",
+        listitem13: "Protected pages",
         
         subtitle2: "Web Scraping",
         subtext2: "Uses Selenium Webdriver to extract data from multiple websites",
@@ -26,7 +26,7 @@ const largerProjectsList = [
         imgURL3: "https://images.pexels.com/photos/2881232/pexels-photo-2881232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem31: "SQL database for users and data",
         listitem32: "Hashing and Salting login information",
-        listitem33: "Uses standard Django admin page",
+        listitem33: "Writes from database to table",
     },
     {
         id: 101,

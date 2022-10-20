@@ -23,6 +23,17 @@ const smallerProjectsList = [
 
     }, 
     {
+        id: 10,
+        title: "ISS Overhead Notifier",
+        imgURL: "https://images.pexels.com/photos/41006/satellite-soyuz-spaceship-space-station-41006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "Program accessses APIs to check if the ISS is over a given latitude/longitude and if it is night. The program then notifies the via email user if both conditions are met.",
+        tagOne: "Python in the cloud",
+        tagTwo: "API access",
+        tagThree: "Email automation",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/ISSOverheadNotifier",
+
+    },
+    {
         id: 1,
         title: "Encoder/Decoder",
         imgURL: "https://images.pexels.com/photos/7319078/pexels-photo-7319078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -31,6 +42,17 @@ const smallerProjectsList = [
         tagTwo: "Relies on internal dictionaries/lists for decoding",
         tagThree: "Copies encoded or decoded message to clipboard once completed",
         gitURL: "https://github.com/citysushi89/small_projects/blob/main/encoderDecoder.py",
+
+    },
+    {
+        id: 6,
+        title: "Unit Testing",
+        imgURL: "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?cs=srgb&dl=pexels-andy-barbour-6684255.jpg&fm=jpg",
+        description: "Program contains basic math operations and uses the unittest module to assess their effectiveness",
+        tagOne: "Unitest module",
+        tagTwo: "Basic math operations confirmed via testing",
+        tagThree: "Importing and testing functions",
+        gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
 
     },
     {
@@ -55,29 +77,6 @@ const smallerProjectsList = [
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/Book%20Projects",
 
     },
-    {
-        id: 6,
-        title: "Unit Testing",
-        imgURL: "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?cs=srgb&dl=pexels-andy-barbour-6684255.jpg&fm=jpg",
-        description: "Program contains basic math operations and uses the unittest module to assess their effectiveness",
-        tagOne: "Unitest module",
-        tagTwo: "Basic math operations confirmed via testing",
-        tagThree: "Importing and testing functions",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
-
-    },
-    // {
-    //     id: 7,
-    //     title: "Space Invaders Clone",
-    //     imgURL: "https://images.pexels.com/photos/1670977/pexels-photo-1670977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    //     description: "Blantant Rip off of the gameplay of Space Invaders but with a unique setting",
-    //     tagOne: "Pygame and Pyautogui",
-    //     tagTwo: "Uses sounds for player feedback",
-    //     tagThree: "Perpetually checks for collisions and endgame conditions",
-    //     gitURL: "https://github.com/citysushi89/small_projects/tree/main/SpaceInvaders",
-
-    // },
-
     // {
     //     id: 2,
     //     title: "BlackJack",
