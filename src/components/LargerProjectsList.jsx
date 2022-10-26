@@ -36,7 +36,7 @@ const largerProjectsList = [
 
         subtitle1: "Sales Tax Remittance",
         subtext1: "Program takes a csv of order information and returns a document instructing the user how to fill out the NC sales tax remittance form",
-        imgURL1: "https://images.pexels.com/photos/6863180/pexels-photo-6863180.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        imgURL1: "https://images.pexels.com/photos/8927687/pexels-photo-8927687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem11: "CSV",
         listitem12: "Tax Automation",
         listitem13: "Data organization",
