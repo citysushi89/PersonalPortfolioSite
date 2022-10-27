@@ -57,6 +57,35 @@ const largerProjectsList = [
 
     },
 
+    {
+        id: 102,
+        bigtitle: "Cracking the Coding Interview",
+        titledescription: "Solutions (or attempts at solutions) to problems in Cracking the Coding Interivew, 6th edition.",
+        gitbaseURL: "https://github.com/citysushi89/CrackingTheCodingInterview",
+
+        subtitle1: "Data Structures and Algorithms",
+        subtext1: "Created data structures and various accompanying algorithms to utilize them",
+        imgURL1: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem11: "Linked lists, graphs, and trees",
+        listitem12: "Stacks and queues",
+        listitem13: "Object-oriented programming",
+
+        subtitle2: "Parallel learning",
+        subtext2: "Suplemented the book with other resources, including Udemy and Jovian",
+        imgURL2: "https://images.pexels.com/photos/1121296/pexels-photo-1121296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem21: "Used several resources to avoid getting stuck on a single problem",
+        listitem22: "Combined lectures, a physical book, short-form videos, with hands-on practice",
+        listitem23: "Kept all notes in a single location",
+        
+        subtitle3: "Data Structure Templates",
+        subtext3: "I built some templates to reference for various data structures while going throught the problems",
+        imgURL3: "https://images.pexels.com/photos/7319274/pexels-photo-7319274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem31: "Started each problem with a blank slate, while referencing templates",
+        listitem32: "Created my own versions of the structures, using combined knowledge from different sources",
+        listitem33: "Ensured consistency across sessions",
+
+    },
+
 ];
 
 export default largerProjectsList;
