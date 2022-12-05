@@ -1,6 +1,34 @@
 
 const largerProjectsList = [
+    // NEW - to include new reminder app
+    {
+        id: 103,
+        bigtitle: "Whats up next Reminder",
+        titledescription: "Website that displays what new content is coming out during the current week, currently has major streaming platforms and NFL games.",
+        gitbaseURL: "https://fflwholesale.herokuapp.com/",
 
+        subtitle1: "Web Development",
+        subtext1: "Built with Django and Bootstrap",
+        imgURL1: "https://images.pexels.com/photos/5082567/pexels-photo-5082567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem11: "SQL database",
+        listitem12: "Filterable table",
+        listitem13: "Only displays items coming out that week",
+        
+        subtitle2: "Web Scraping",
+        subtext2: "Uses Selenium Webdriver to extract data from multiple websites",
+        imgURL2: "https://images.pexels.com/photos/3646172/pexels-photo-3646172.jpeg?auto=compress&cs=tinysrgb&w=400",
+        listitem21: "Program gets data from numerous websites",
+        listitem22: "Program aggregates this data in one place",
+        listitem23: "Filters for the correct date and only displays those items",
+
+        subtitle3: "CSV",
+        subtext3: "Data organization",
+        imgURL3: "https://images.pexels.com/photos/4792288/pexels-photo-4792288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        listitem31: "Program writes and reads CSVs to ensure data's integiry",
+        listitem32: "Data passed into a database for efficient display",
+        listitem33: "Filterable table to display data",
+    },
+    // NEW
     {
         id: 100,
         bigtitle: "Wholesale Sorter",
