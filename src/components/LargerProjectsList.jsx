@@ -4,7 +4,7 @@ const largerProjectsList = [
         id: 103,
         bigtitle: "Whats up next Reminder",
         titledescription: "Website that displays what new content is coming out during the current week, currently has major streaming platforms and NFL games.",
-        gitbaseURL: "https://fflwholesale.herokuapp.com/",
+        gitbaseURL: "https://comingsoonbot.herokuapp.com/",
 
         subtitle1: "Web Development",
         subtext1: "Built with Django and Bootstrap",
