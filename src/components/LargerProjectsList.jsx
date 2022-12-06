@@ -8,14 +8,14 @@ const largerProjectsList = [
 
         subtitle1: "Web Development",
         subtext1: "Built with Django and Bootstrap",
-        imgURL1: "https://images.pexels.com/photos/5082567/pexels-photo-5082567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        imgURL1: "https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1600",
         listitem11: "SQL database",
         listitem12: "Filterable table",
         listitem13: "Only displays items coming out that week",
         
         subtitle2: "Web Scraping",
         subtext2: "Uses Selenium Webdriver to extract data from multiple websites",
-        imgURL2: "https://images.pexels.com/photos/3646172/pexels-photo-3646172.jpeg?auto=compress&cs=tinysrgb&w=400",
+        imgURL2: "https://images.pexels.com/photos/5082567/pexels-photo-5082567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         listitem21: "Program gets data from numerous websites",
         listitem22: "Program aggregates this data in one place",
         listitem23: "Filters for the correct date and only displays those items",
