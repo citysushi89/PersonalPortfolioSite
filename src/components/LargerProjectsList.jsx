@@ -1,6 +1,5 @@
 
 const largerProjectsList = [
-    // NEW - to include new reminder app
     {
         id: 103,
         bigtitle: "Whats up next Reminder",
@@ -28,7 +27,6 @@ const largerProjectsList = [
         listitem32: "Data passed into a database for efficient display",
         listitem33: "Filterable table to display data",
     },
-    // NEW
     {
         id: 100,
         bigtitle: "Wholesale Sorter",
