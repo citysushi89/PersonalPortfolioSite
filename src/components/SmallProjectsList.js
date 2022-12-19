@@ -1,5 +1,7 @@
 
 const smallerProjectsList = [
+    // Next id should be 12
+
     {
         id: 5,
         title: "NFL Data Analysis",
@@ -44,17 +46,17 @@ const smallerProjectsList = [
         gitURL: "https://github.com/citysushi89/small_projects/blob/main/encoderDecoder.py",
 
     },
-    {
-        id: 6,
-        title: "Unit Testing",
-        imgURL: "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?cs=srgb&dl=pexels-andy-barbour-6684255.jpg&fm=jpg",
-        description: "Program contains basic math operations and uses the unittest module to assess their effectiveness",
-        tagOne: "Unitest module",
-        tagTwo: "Basic math operations confirmed via testing",
-        tagThree: "Importing and testing functions",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
+    // {
+    //     id: 6,
+    //     title: "Unit Testing",
+    //     imgURL: "https://images.pexels.com/photos/6684255/pexels-photo-6684255.jpeg?cs=srgb&dl=pexels-andy-barbour-6684255.jpg&fm=jpg",
+    //     description: "Program contains basic math operations and uses the unittest module to assess their effectiveness",
+    //     tagOne: "Unitest module",
+    //     tagTwo: "Basic math operations confirmed via testing",
+    //     tagThree: "Importing and testing functions",
+    //     gitURL: "https://github.com/citysushi89/small_projects/tree/main/unittest",
 
-    },
+    // },
     {
         id: 7,
         title: "Space Invaders Clone",
@@ -111,6 +113,18 @@ const smallerProjectsList = [
         gitURL: "https://github.com/citysushi89/small_projects/blob/main/dino.py",
 
     },
+
+    {
+        id: 11,
+        title: "Test Driven Development",
+        imgURL: "https://images.pexels.com/photos/6684209/pexels-photo-6684209.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        description: "Follows the book 'Obey The Testing Goat' to develop a Django app",
+        tagOne: "Functional Tests",
+        tagTwo: "Web development with Django",
+        tagThree: "Unittest Module",
+        gitURL: "https://github.com/citysushi89/testdrivendevelopmentsite",
+
+    }, 
 
 ];
 
