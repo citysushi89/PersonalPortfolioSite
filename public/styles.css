@@ -223,3 +223,13 @@ body {
 .larger-projects-headercard {
   margin-bottom: 4%;
 }
+
+
+/* Mobile Dev Page */
+.card-link {
+  margin: 25px;
+}
+
+.mobile-card {
+  max-width: 400px;
+}
