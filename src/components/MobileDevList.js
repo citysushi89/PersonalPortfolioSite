@@ -53,8 +53,8 @@ const mobileDevelopmentList = [
         tagThree: "If Statements",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "https://images.pexels.com/photos/3143085/pexels-photo-3143085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    }, 
+        imgURL: "https://images.pexels.com/photos/6636374/pexels-photo-6636374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    },      
     {
         id: 6,
         title: "Text-based Adventure Game",
@@ -97,7 +97,7 @@ const mobileDevelopmentList = [
         tagThree: "OOP",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "https://images.pexels.com/photos/11289567/pexels-photo-11289567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        imgURL: "https://images.pexels.com/photos/6253688/pexels-photo-6253688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 10,
