@@ -42,7 +42,7 @@ const mobileDevelopmentList = [
         tagThree: "Async Functions",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
     {
         id: 5,
@@ -53,7 +53,7 @@ const mobileDevelopmentList = [
         tagThree: "If Statements",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/3143085/pexels-photo-3143085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 6,
@@ -64,7 +64,7 @@ const mobileDevelopmentList = [
         tagThree: "Hiding Unusable Widgets",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/272254/pexels-photo-272254.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
     {
         id: 7,
@@ -75,7 +75,7 @@ const mobileDevelopmentList = [
         tagThree: "If Else Statements",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/207756/pexels-photo-207756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 8,
@@ -86,7 +86,7 @@ const mobileDevelopmentList = [
         tagThree: "3rd Party Packages",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/6743164/pexels-photo-6743164.jpeg?auto=compress&cs=tinysrgb&w=400s",
     }, 
     {
         id: 9,
@@ -97,7 +97,7 @@ const mobileDevelopmentList = [
         tagThree: "OOP",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/11289567/pexels-photo-11289567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 10,
@@ -108,7 +108,7 @@ const mobileDevelopmentList = [
         tagThree: "Updating State",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "",
+        imgURL: "https://images.pexels.com/photos/965879/pexels-photo-965879.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
 
 
