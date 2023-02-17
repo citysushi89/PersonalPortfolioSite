@@ -12,6 +12,7 @@ import LargerProjectsCard from "./pages/LargerProjects";
 import Home from "./pages/Home";
 import Card from "./pages/SmallerProjects";
 import largerProjectsList from "./components/LargerProjectsList";
+import MobileDev from "./pages/MobileDev";
 
 function createCard(item) {
   return (
