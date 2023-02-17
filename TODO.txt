@@ -2,10 +2,3 @@ Other TODOs
 - In Contact Me Page, replace the info in the function to send email with env variables
 
 
-Reference
-https://colorhunt.co/palette/00abb33c4048b2b2b2eaeaea
-Colors:
-#00ABB3 - green
-#3C4048 Dark Background - just button hover color
-#B2B2B2 - Light background/gray  
-#EAEAEA - Super light background/gray 

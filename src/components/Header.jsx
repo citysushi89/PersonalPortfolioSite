@@ -43,8 +43,12 @@ function Header() {
                 </Nav>
 
                 <Nav className="header-text">
-                    <Nav.Link href="/card" className="header-list-item"><p className="header-text">Smaller Projects</p></Nav.Link>
-                    <Nav.Link href="/largerprojects" className="header-list-item"><p className="header-text">Larger Projects</p></Nav.Link>
+            
+                <Nav.Link href="/largerprojects" className="header-list-item"><p className="header-text">Larger Projects</p></Nav.Link>
+                {/* NEW MOBILE DEV */}
+                <Nav.Link href="/mobiledev" className="header-list-item"><p className="header-text">Mobile Dev</p></Nav.Link>
+                <Nav.Link href="/card" className="header-list-item"><p className="header-text">Smaller Projects</p></Nav.Link>
+
                     <Nav.Link href="/home#AboutMe" className="header-list-item"><p className="header-text">About Me</p></Nav.Link>
                     <Nav.Link href="/contact" className="header-list-item"><p className="header-text">Contact Me</p></Nav.Link>
                 </Nav>

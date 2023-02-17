@@ -7,7 +7,7 @@ import Swal from 'sweetalert2';
 function Contact() {
   const handleOnSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm("service_n7tkf1u", "template_yu8og4o", e.target, "E5LGQUH5IRXGyLnx3")
+    emailjs.sendForm("service_n7tkf1u", "template_yu8og4o", e.target, "E5LGQUH5IRXGyLnx3", form='email-form')
       .then((result) => {
         console.log(result.text);
         Swal.fire({
@@ -32,7 +32,7 @@ return (
             <div className="col-lg-6 col-md-6 contact-form">
                 <h2>Give me a Shout!</h2>
                 <p>Send me an email with the form below.</p>
-                <form onSubmit={handleOnSubmit}>
+                <form onSubmit={handleOnSubmit} id="email-form">
                     <div className="row">
                         <div className="col-lg-6 col-md-6 col-sm-12 form-group">
                             <input
