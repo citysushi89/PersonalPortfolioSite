@@ -7,7 +7,7 @@ import Swal from 'sweetalert2';
 function Contact() {
   const handleOnSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm("service_n7tkf1u", "template_yu8og4o", e.target, "E5LGQUH5IRXGyLnx3", form='email-form')
+    emailjs.sendForm("service_n7tkf1u", "template_yu8og4o", e.target, "E5LGQUH5IRXGyLnx3", 'email-form')
       .then((result) => {
         console.log(result.text);
         Swal.fire({
