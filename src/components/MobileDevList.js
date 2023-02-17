@@ -34,9 +34,9 @@ const mobileDevelopmentList = [
         id: 4,
         title: "Weather App",
         description: "Mobile Dev Description 2",
-        tagOne: "MBT11",
-        tagTwo: "MBT22",
-        tagThree: "MBT33",
+        tagOne: "APIs",
+        tagTwo: "Location Access",
+        tagThree: "Async Function",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
     }, 
@@ -80,7 +80,6 @@ const mobileDevelopmentList = [
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
     }, 
-
     {
         id: 9,
         title: "Xylophone App",
@@ -111,7 +110,6 @@ const mobileDevelopmentList = [
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
     }, 
-
 
 
 

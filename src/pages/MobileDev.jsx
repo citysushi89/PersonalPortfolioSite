@@ -5,14 +5,12 @@ import React from "react";
 
 function MobileDev(props) {
     return (
-
-    <div className="small-projects-section">   
         <div className="cardList">
             <div className="card mobile-card">
-                {/* <div className="card-body"> */}
+                <div className="card-body">
                     <h5 className="card-title">{props.title}</h5>
                     <p className="card-text">{props.description}</p>
-                {/* </div> */}
+                </div>
                 <ul className="list-group list-group-flush">
                     <li className="list-group-item card-list-item">{props.tagOne}</li>
                     <li className="list-group-item card-list-item">{props.tagTwo}</li>
@@ -23,8 +21,7 @@ function MobileDev(props) {
                     <a href={props.vidURL} className="card-link">In Action</a>
                 </div>
             </div>
-        </div>
-    </div>     
+        </div>   
     
     );
 }
