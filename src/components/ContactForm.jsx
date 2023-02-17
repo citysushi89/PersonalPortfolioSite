@@ -38,7 +38,7 @@ return (
                             <input
                                 type="text"
                                 className="form-control"
-                                name="name"
+                                name="from_name"
                                 required
                                 placeholder="Name"
                             />
@@ -47,7 +47,7 @@ return (
                             <input
                                 type="email"
                                 className="form-control"
-                                name="email"
+                                name="from_email"
                                 required
                                 placeholder="Email"
                             />
