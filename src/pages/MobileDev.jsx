@@ -16,7 +16,8 @@ function MobileDev(props) {
                     <li className="list-group-item card-list-item">{props.tagTwo}</li>
                     <li className="list-group-item card-list-item">{props.tagThree}</li>
                 </ul>
-                <img class="card-img-bottom" src="..." alt="Card image cap"></img>
+                <img class="card-img-bottom" src={props.imgURL} alt="Card image"></img>
+                <hr></hr>
                 <div className="card-body">
                     <a href={props.gitURL} className="card-link">Github</a>
                     <a href={props.vidURL} className="card-link">In Action</a>

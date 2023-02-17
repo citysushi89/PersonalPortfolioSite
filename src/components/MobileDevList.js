@@ -9,6 +9,7 @@ const mobileDevelopmentList = [
         tagThree: "ListViews and ModalBottomSheet",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "https://images.pexels.com/photos/1226398/pexels-photo-1226398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 2,
@@ -19,6 +20,7 @@ const mobileDevelopmentList = [
         tagThree: "Animation Controller",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "https://images.pexels.com/photos/1111369/pexels-photo-1111369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 3,
@@ -29,6 +31,7 @@ const mobileDevelopmentList = [
         tagThree: "Loops",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "https://www.pexels.com/photo/ripple-etehereum-and-bitcoin-and-micro-sdhc-card-844124/",
     }, 
     {
         id: 4,
@@ -39,6 +42,7 @@ const mobileDevelopmentList = [
         tagThree: "Async Functions",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
     {
         id: 5,
@@ -49,6 +53,7 @@ const mobileDevelopmentList = [
         tagThree: "If Statements",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
     {
         id: 6,
@@ -59,6 +64,7 @@ const mobileDevelopmentList = [
         tagThree: "Hiding Unusable Widgets",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
     {
         id: 7,
@@ -69,6 +75,7 @@ const mobileDevelopmentList = [
         tagThree: "If Else Statements",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
     {
         id: 8,
@@ -79,6 +86,7 @@ const mobileDevelopmentList = [
         tagThree: "3rd Party Packages",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
     {
         id: 9,
@@ -89,6 +97,7 @@ const mobileDevelopmentList = [
         tagThree: "OOP",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
     {
         id: 10,
@@ -99,6 +108,7 @@ const mobileDevelopmentList = [
         tagThree: "Updating State",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
+        imgURL: "",
     }, 
 
 

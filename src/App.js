@@ -73,6 +73,7 @@ function createMobileDevCard(item) {
   tagThree={item.tagThree}
   gitURL={item.gitURL}
   vidURL={item.vidURL}
+  imgURL={item.imgURL3}
   />
   );
 }
