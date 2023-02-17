@@ -31,7 +31,7 @@ const mobileDevelopmentList = [
         tagThree: "Loops",
         gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
         vidURL: "",
-        imgURL: "https://www.pexels.com/photo/ripple-etehereum-and-bitcoin-and-micro-sdhc-card-844124/",
+        imgURL: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
         id: 4,

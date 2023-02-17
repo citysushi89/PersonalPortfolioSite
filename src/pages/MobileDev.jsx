@@ -20,7 +20,7 @@ function MobileDev(props) {
                     <a href={props.gitURL} className="card-link">Github</a>
                     <a href={props.vidURL} className="card-link">In Action</a>
                 </div>
-                <img class="card-img-bottom" src={props.imgURL} alt="Card image"></img>
+                <img class="card-img-bottom mobile-dev-card-img" src={props.imgURL} alt="Card image"></img>
             </div>
         </div>   
     
