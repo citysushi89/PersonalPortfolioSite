@@ -13,6 +13,7 @@ import Home from "./pages/Home";
 import Card from "./pages/SmallerProjects";
 import largerProjectsList from "./components/LargerProjectsList";
 import MobileDev from "./pages/MobileDev";
+import mobileDevelopmentList from "./components/MobileDevList";
 
 function createCard(item) {
   return (
@@ -61,6 +62,21 @@ function createLargerProjectCard(item) {
   );
 }
 
+function createMobileDevCard(item) {
+  return (
+  <Card 
+  key={item.id}
+  title={item.title}
+  description={item.description}
+  tagOne={item.tagOne}
+  tagTwo={item.tagTwo}
+  tagThree={item.tagThree}
+  gitURL={item.gitURL}
+  vidURL={item.vidURL}
+  />
+  );
+}
+
 function App() {
   return (
     <BrowserRouter>
@@ -70,7 +86,7 @@ function App() {
           <Route path="home" element={<Home />} />
           <Route path="card" className="cardList" element={<dl className="cardList"> {smallerProjectsList.map(createCard)}</dl>} />
           <Route path="largerprojects" element={<dl> {largerProjectsList.map(createLargerProjectCard)}</dl>} />
-          <Route path="mobiledev" element={<MobileDev />} />
+          <Route path="mobiledev" element={<dl> {mobileDevelopmentList.map(createMobileDevCard)}</dl>}  />
           <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>
