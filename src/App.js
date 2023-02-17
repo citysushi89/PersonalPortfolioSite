@@ -64,7 +64,7 @@ function createLargerProjectCard(item) {
 
 function createMobileDevCard(item) {
   return (
-  <Card 
+  <MobileDev
   key={item.id}
   title={item.title}
   description={item.description}
