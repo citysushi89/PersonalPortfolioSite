@@ -86,7 +86,7 @@ function App() {
           <Route path="home" element={<Home />} />
           <Route path="card" className="cardList" element={<dl className="cardList"> {smallerProjectsList.map(createCard)}</dl>} />
           <Route path="largerprojects" element={<dl> {largerProjectsList.map(createLargerProjectCard)}</dl>} />
-          <Route path="mobiledev" element={<dl> {mobileDevelopmentList.map(createMobileDevCard)}</dl>}  />
+          <Route path="mobiledev" element={<dl className="cardList">{mobileDevelopmentList.map(createMobileDevCard)}</dl>}  />
           <Route path="contact" element={<Contact />} />
         </Route>
       </Routes>

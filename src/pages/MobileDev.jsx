@@ -20,7 +20,7 @@ function MobileDev(props) {
                 </ul>
                 <div className="card-body">
                     <a href={props.gitURL} className="card-link">Github</a>
-                    <a href={props.vidURL} className="card-link">Usage</a>
+                    <a href={props.vidURL} className="card-link">In Action</a>
                 </div>
             </div>
         </div>
