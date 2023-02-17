@@ -14,7 +14,7 @@ const mobileDevelopmentList = [
     {
         id: 2,
         title: "Chat App",
-        description: "Mobile Dev Description 2",
+        description: "Allows users to instantly communicate in a chatroom",
         tagOne: "User Authentication",
         tagTwo: "Databases",
         tagThree: "Animation Controller",
@@ -25,7 +25,7 @@ const mobileDevelopmentList = [
     {
         id: 3,
         title: "Crypto Ticker",
-        description: "Mobile Dev Description 2",
+        description: "Compares the price of several crypto currencies to the national currency chosen by the user",
         tagOne: "APIs",
         tagTwo: "Live Data",
         tagThree: "Loops",
@@ -36,7 +36,7 @@ const mobileDevelopmentList = [
     {
         id: 4,
         title: "Weather App",
-        description: "Mobile Dev Description 2",
+        description: "Gives the current weather conditions either at the users location or at a location of the user's choice",
         tagOne: "APIs",
         tagTwo: "Location Access",
         tagThree: "Async Functions",
@@ -47,7 +47,7 @@ const mobileDevelopmentList = [
     {
         id: 5,
         title: "BMI Calculator",
-        description: "Mobile Dev Description 2",
+        description: "Calculates BMI based on factors input by the user",
         tagOne: "Routing and Navigation",
         tagTwo: "Dart Math",
         tagThree: "If Statements",
@@ -58,7 +58,7 @@ const mobileDevelopmentList = [
     {
         id: 6,
         title: "Text-based Adventure Game",
-        description: "Mobile Dev Description 2",
+        description: "User responds to text-based prompts and navigates a story",
         tagOne: "OOP",
         tagTwo: "User Input",
         tagThree: "Hiding Unusable Widgets",
@@ -69,7 +69,7 @@ const mobileDevelopmentList = [
     {
         id: 7,
         title: "Quizzing App",
-        description: "Mobile Dev Description 2",
+        description: "True / False quiz structure with a set number of questions",
         tagOne: "OOP",
         tagTwo: "Updating State",
         tagThree: "If Else Statements",
@@ -80,7 +80,7 @@ const mobileDevelopmentList = [
     {
         id: 8,
         title: "Xylophone App",
-        description: "Mobile Dev Description 2",
+        description: "User can play the Xylophone with the touch of a finger",
         tagOne: "Audio Playing",
         tagTwo: "User Interaction",
         tagThree: "3rd Party Packages",
@@ -91,7 +91,7 @@ const mobileDevelopmentList = [
     {
         id: 9,
         title: "Magic 8 Ball",
-        description: "Mobile Dev Description 2",
+        description: "Magic 8 ball randomly spits out a responses after user clicks its",
         tagOne: "User Interaction",
         tagTwo: "Dart Math / Randomization",
         tagThree: "OOP",
@@ -102,7 +102,7 @@ const mobileDevelopmentList = [
     {
         id: 10,
         title: "Dice",
-        description: "Mobile Dev Description 2",
+        description: "Randomly gets two integers from 1-6 and displays them on the dice images",
         tagOne: "Stateful Widgets",
         tagTwo: "User Interaction",
         tagThree: "Updating State",
