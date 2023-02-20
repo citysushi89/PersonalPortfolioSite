@@ -107,7 +107,7 @@ const mobileDevelopmentList = [
         tagTwo: "User Interaction",
         tagThree: "Updating State",
         gitURL: "https://github.com/citysushi89/MobileDevDice",
-        vidURL: "",
+        vidURL: "https://github.com/citysushi89/MobileDevDice/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/965879/pexels-photo-965879.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
 
