@@ -58,7 +58,7 @@ const mobileDevelopmentList = [
     {
         id: 6,
         title: "Text-based Adventure Game",
-        description: "User responds to text-based prompts and navigates a story",
+        description: "User responds to text-based prompts and navigates a story",..
         tagOne: "OOP",
         tagTwo: "User Input",
         tagThree: "Hiding Unusable Widgets",
@@ -96,7 +96,7 @@ const mobileDevelopmentList = [
         tagTwo: "Dart Math / Randomization",
         tagThree: "OOP",
         gitURL: "https://github.com/citysushi89/MobileDev8Ball",
-        vidURL: "",
+        vidURL: "https://github.com/citysushi89/MobileDev8Ball/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/6253688/pexels-photo-6253688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
