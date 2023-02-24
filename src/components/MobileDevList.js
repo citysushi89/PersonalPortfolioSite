@@ -84,8 +84,8 @@ const mobileDevelopmentList = [
         tagOne: "Audio Playing",
         tagTwo: "User Interaction",
         tagThree: "3rd Party Packages",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevXylophone",
+        vidURL: "https://github.com/citysushi89/MobileDevXylophone/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/6743164/pexels-photo-6743164.jpeg?auto=compress&cs=tinysrgb&w=400s",
     }, 
     {
