@@ -58,7 +58,7 @@ const mobileDevelopmentList = [
     {
         id: 6,
         title: "Text-based Adventure Game",
-        description: "User responds to text-based prompts and navigates a story",..
+        description: "User responds to text-based prompts and navigates a story",
         tagOne: "OOP",
         tagTwo: "User Input",
         tagThree: "Hiding Unusable Widgets",
@@ -110,8 +110,6 @@ const mobileDevelopmentList = [
         vidURL: "https://github.com/citysushi89/MobileDevDice/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/965879/pexels-photo-965879.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
-
-
 
 ]
 
