@@ -73,8 +73,8 @@ const mobileDevelopmentList = [
         tagOne: "OOP",
         tagTwo: "Updating State",
         tagThree: "If Else Statements",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevQuiz",
+        vidURL: "https://github.com/citysushi89/MobileDevQuiz/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/207756/pexels-photo-207756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
