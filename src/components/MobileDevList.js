@@ -62,8 +62,8 @@ const mobileDevelopmentList = [
         tagOne: "OOP",
         tagTwo: "User Input",
         tagThree: "Hiding Unusable Widgets",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevDestini",
+        vidURL: "https://github.com/citysushi89/MobileDevDestini/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/272254/pexels-photo-272254.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
     {
