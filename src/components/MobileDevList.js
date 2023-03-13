@@ -1,9 +1,20 @@
 
 const mobileDevelopmentList = [
     {
+        id: 101,
+        title: "Workout App",
+        description: "Allows users to record workouts",
+        tagOne: "Provider and ChangeNotifier",
+        tagTwo: "Databases",
+        tagThree: "ListViews and ModalBottomSheet",
+        gitURL: "https://github.com/citysushi89/MobileDevFitnessApp",
+        vidURL: "https://github.com/citysushi89/MobileDevToDoListApp/blob/main/README.md",
+        imgURL: "https://images.pexels.com/photos/1226398/pexels-photo-1226398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    }, 
+    {
         id: 1,
         title: "To Do List App",
-        description: "Mobile Dev Description",
+        description: "Allows user to jot down items, check off, and remove when done",
         tagOne: "Provider and ChangeNotifier",
         tagTwo: "Databases",
         tagThree: "ListViews and ModalBottomSheet",
