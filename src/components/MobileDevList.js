@@ -11,7 +11,7 @@ const mobileDevelopmentList = [
         vidURL: "",
         imgURL: "https://images.pexels.com/photos/1226398/pexels-photo-1226398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
-    {
+    {   
         id: 2,
         title: "Chat App",
         description: "Allows users to instantly communicate in a chatroom",
@@ -40,8 +40,8 @@ const mobileDevelopmentList = [
         tagOne: "APIs",
         tagTwo: "Location Access",
         tagThree: "Async Functions",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevWeatherApp",
+        vidURL: "https://github.com/citysushi89/MobileDevWeatherApp/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=400",
     }, 
     {
@@ -51,8 +51,8 @@ const mobileDevelopmentList = [
         tagOne: "Routing and Navigation",
         tagTwo: "Dart Math",
         tagThree: "If Statements",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevBMICalculator",
+        vidURL: "https://github.com/citysushi89/MobileDevBMICalculator/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/6636374/pexels-photo-6636374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },      
     {
