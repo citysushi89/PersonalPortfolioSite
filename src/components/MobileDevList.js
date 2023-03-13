@@ -18,8 +18,8 @@ const mobileDevelopmentList = [
         tagOne: "User Authentication",
         tagTwo: "Databases",
         tagThree: "Animation Controller",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevChatApp",
+        vidURL: "https://github.com/citysushi89/MobileDevChatApp/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/1111369/pexels-photo-1111369.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
@@ -29,8 +29,8 @@ const mobileDevelopmentList = [
         tagOne: "APIs",
         tagTwo: "Live Data",
         tagThree: "Loops",
-        gitURL: "https://github.com/citysushi89/small_projects/tree/main/NFLDataAnalysis",
-        vidURL: "",
+        gitURL: "https://github.com/citysushi89/MobileDevCryptoTicker",
+        vidURL: "https://github.com/citysushi89/MobileDevCryptoTicker/blob/main/README.md",
         imgURL: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     }, 
     {
